@@ -38,7 +38,9 @@ The easiest and safest way to install this and other mods is by using a Mod Mana
 
     Download and install the mod using a mod loader like Thunderstore or r2modman.
 
-    BepInEx is required for this ModMenu to function. The mod manager will typically handle this installation for you.
+    BepInEx is required for this ModMenu to function. The mod manager will typically handle this installation for you or you can simple navigate into plugins folder in BepInEx 
+
+    Your Directory\BepInEx\plugins and paste .dll into
 
 📖 How to Use
 
