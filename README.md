@@ -8,21 +8,23 @@ The menu is opened with the Insert key and offers an organized layout with the f
 
 Actions & Cheats
 
-    🏃 Infinite Stamina: Toggle on and off with a single click.
+    • Infinite Stamina: Toggle on and off with a single click.
 
-    🎯 Target Selection System: View a list of all players in the match and select one as a target for the actions below.
+    • Carry Anyone: Toggle on and off, Press E and carry the player, press 4 to release him on the ground.
 
-    🚀 Teleport to Target: Instantly teleport to the selected player's position.
+    • Target Selection System: View a list of all players in the match and select one as a target for the actions below.
 
-    ❤️ Revive Target (Host Only): Revive a player who is dead or incapacitated.
+    • Teleport to Target: Instantly teleport to the selected player's position.
 
-    👹 Spawn Monster on Target (Host Only): Spawn a "Scoutmaster" monster that will directly attack the selected player.
+    • Revive Target (Host Only): Revive a player who is dead or incapacitated.
+
+    • Spawn Monster on Target (Host Only): Spawn a "Scoutmaster" monster that will directly attack the selected player.
 
 Item Spawning
 
-    🎒 Quick Item List: A scrollable menu containing a list of useful items to spawn with a single click.
+    • Quick Item List: A scrollable menu containing a list of useful items to spawn with a single click.
 
-    🔢 Spawn by ID: A text field that only accepts numbers for you to test and spawn any in-game item using its numerical ID.
+    • Spawn by ID: A text field that only accepts numbers for you to test and spawn any in-game item using its numerical ID.
 
 🛠️ Built With
 
